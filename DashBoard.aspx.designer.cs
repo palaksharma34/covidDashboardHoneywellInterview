@@ -42,15 +42,6 @@ namespace CovidDashboardHoneyWell.ASPX
         protected global::System.Web.UI.WebControls.GridView grdCovidData;
 
         /// <summary>
-        /// lblTopCases control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl lblTopCases;
-
-        /// <summary>
         /// pnlTpCases control.
         /// </summary>
         /// <remarks>
@@ -67,6 +58,15 @@ namespace CovidDashboardHoneyWell.ASPX
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl div13;
+
+        /// <summary>
+        /// lblTopCases control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblTopCases;
 
         /// <summary>
         /// lblTopData1 control.
